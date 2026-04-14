@@ -5,16 +5,16 @@ It includes simple beginner-level practicals to understand Android Studio setup,
 
 ## Practicals Included
 
-1. MyFirstApplication.zip
+1. **MyFirstApplication.zip**  
    Introduction to Android app development by creating a basic first application.
 
-2. HelloWorldColor.zip
+2. **HelloWorldColor.zip**  
    Demonstrates how to display text and apply colors in the user interface.
 
-3. Toast.zip 
+3. **Toast.zip**  
    Shows how to display short popup messages using Toast in Android.
 
-4. ActivityLife.zip 
+4. **ActivityLife.zip**  
    Explains the Android Activity Lifecycle and its major callback methods.
 
 
@@ -28,61 +28,61 @@ It helps in understanding how Android applications handle input, display lists, 
 
 ## Practicals Included
 
-1. AnalogClock.zip  
+1. **AnalogClock.zip**  
    Demonstrates the use of Analog Clock widget in Android.
 
-2. AutoCompleteText.zip  
+2. **AutoCompleteText.zip**  
    Shows how to use AutoCompleteTextView for suggestion-based input.
 
-3. Cal.zip
+3. **Cal.zip**  
    Simple calculator-based practical.
 
-4. Call.zip
+4. **Call.zip**  
    Demonstrates how to initiate a phone call using intent.
 
-5. Explicit_Intent_Example.zip
+5. **Explicit_Intent_Example.zip**  
    Shows navigation between activities using explicit intent.
 
-6. FragmentExample.zip
+6. **FragmentExample.zip**  
    Demonstrates the use of fragments in Android applications.
 
-7. ImageButton.zip
+7. **ImageButton.zip**  
    Shows how to use an ImageButton in UI.
 
-8. ImageView.zip
+8. **ImageView.zip**  
    Demonstrates displaying images in an Android app.
 
-9. ListViewExample.zip 
+9. **ListViewExample.zip**  
    Shows how to display list data using ListView.
 
-10. Login.zip 
+10. **Login.zip**  
     Basic login screen practical.
 
-11. MyRecycleView.zip  
+11. **MyRecycleView.zip**  
     Demonstrates the use of RecyclerView for efficient list display.
 
-12. ProgressBar.zip 
+12. **ProgressBar.zip**  
     Shows use of ProgressBar to indicate progress/loading.
 
-13. RadioGroup.zip 
+13. **RadioGroup.zip**  
     Demonstrates RadioButton and RadioGroup selection.
 
-14. RatingBar.zip 
+14. **RatingBar.zip**  
     Shows how users can provide ratings using RatingBar.
 
-15. Spinner.zip  
+15. **Spinner.zip**  
     Demonstrates dropdown selection using Spinner.
 
-16. SplashScreen.zip  
+16. **SplashScreen.zip**  
     Simple splash screen implementation.
 
-17. ToggleButton.zip 
+17. **ToggleButton.zip**  
     Shows how to use ToggleButton in Android.
 
-18. check_box_example.zip  
+18. **check_box_example.zip**  
     Demonstrates use of CheckBox for multiple selections.
 
-19. two_text_boxes.zip
+19. **two_text_boxes.zip**  
     Basic example of handling input from two text boxes.
 
 
@@ -95,52 +95,52 @@ This unit includes practicals related to layouts, background processing, Android
 
 ## Practicals Included
 
-1. AbsoluteLayout.zip  
+1. **AbsoluteLayout.zip**  
    Demonstrates Absolute Layout in Android.
 
-2. relative.zip  
+2. **relative.zip**  
    Shows the use of Relative Layout.
 
-3. table.zip
+3. **table.zip**  
    Demonstrates Table Layout arrangement.
 
-4. Actionbar.zip  
+4. **Actionbar.zip**  
    Shows implementation of Action Bar in Android.
 
-5. AlarmManager.zip
+5. **AlarmManager.zip**  
    Demonstrates scheduling tasks using AlarmManager.
 
-6. AsyncTaskExample.zip 
+6. **AsyncTaskExample.zip**  
    Shows background task execution using AsyncTask.
 
-7. AudioManager.zip 
+7. **AudioManager.zip**  
    Demonstrates controlling audio settings using AudioManager.
 
-8. Frame_by_Frame_Animation.zip
+8. **Frame_by_Frame_Animation.zip**  
    Shows frame animation in Android.
 
-9. ImageView.zip 
+9. **ImageView.zip**  
    Image display example.
 
-10. Menu_Example.zip
+10. **Menu_Example.zip**  
     Demonstrates menu creation and handling.
 
-11. Service.zip  
+11. **Service.zip**  
     Shows implementation of Android Service.
 
-12. Telephony API.zip 
+12. **Telephony API.zip**  
     Demonstrates use of telephony-related features.
 
-13. TweenAnimation.zip  
+13. **TweenAnimation.zip**  
     Demonstrates tween animation effects.
 
-14. URL_in_EditText.zip  
+14. **URL_in_EditText.zip**  
     Basic handling of URL input in EditText.
 
-15. WebView_Example.zip 
+15. **WebView_Example.zip**  
     Shows how to display web content using WebView.
 
-16. two Emulators.zip  
+16. **two Emulators.zip**  
     Demonstrates communication/testing between two emulators.
 
 
@@ -153,28 +153,28 @@ This unit focuses on Android data storage techniques, user dialogs, media playba
 
 ## Practicals Included
 
-1. 3 text boxes.zip
+1. **3 text boxes.zip**  
    Practical based on multiple text inputs.
 
-2. AlertDialog.zip  
+2. **AlertDialog.zip**  
    Demonstrates creating and using AlertDialog.
 
-3. Contentprovider.zip  
+3. **Contentprovider.zip**  
    Shows how Content Provider works in Android.
 
-4. External Storage.zip 
+4. **External Storage.zip**  
    Demonstrates reading/writing data using external storage.
 
-5. Internal Storage.zip  
+5. **Internal Storage.zip**  
    Demonstrates file handling using internal storage.
 
-6. SQLiteOpenHelper.zip 
+6. **SQLiteOpenHelper.zip**  
    Shows local database handling using SQLiteOpenHelper.
 
-7. SharedPreferences.zip  
+7. **SharedPreferences.zip**  
    Demonstrates lightweight key-value storage using SharedPreferences.
 
-8. VideoView.zip 
+8. **VideoView.zip**  
    Shows video playback using VideoView.
 
 
@@ -187,10 +187,10 @@ This unit focuses on document/data handling and JSON parsing, which are useful f
 
 ## Practicals Included
 
-1. Doc_detail.zip  
+1. **Doc_detail.zip**  
    Practical related to document/detail handling.
 
-2. JSON parsing.zip  
+2. **JSON parsing.zip**  
    Demonstrates parsing JSON data in Android.
 
    
